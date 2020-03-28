@@ -88,6 +88,40 @@ www.huya.com##DIV[id="huya-ab"]
 www.bilibili.com##DIV[id="reco_list"][class="recommend-list report-wrap-module report-scroll-module"]
 www.bilibili.com##DIV[id="live_recommand_report"][class="pop-live report-wrap-module report-scroll-module"]
 haicao46.com##UL
-@@|https://blog.csdn.net/special00/article/details/78419551|$document
-@@||baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E7%BD%91%E8%AF%BE&oq=%25E6%25B7%2598%25E5%25AE%259D&rsv_pq=963fb649000d8d14&rsv_t=4e5dSNrcxHXvtZ7wKEVq45J1adiQ6r9eE0Pfrg7aOLH6sMMGiICfZ3tH7bI&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=15&rsv_sug1=17&rsv_sug7=101&rsv_sug2=0&inputT=5134&rsv_sug4=5134^$document
+cn.onlineconvert.com##INS[class="adsbygoogle"]
+www.convertico.com##INS[class="adsbygoogle billboardAd"]
+www.convertico.com##INS[class="adsbygoogle"]
+www.convertico.com##DIV[id="recent"]
+www.convertico.com##DIV[id="footer"]
+www.convertico.com##DIV[id="top"]
+sukebei.nyaa.fun##DIV[class="servers-cost-money2 sc_detail_l_1 hidden-xs"]
+sukebei.nyaa.fun##DIV[class="servers-cost-money1 sc_detail_l_2 hidden-xs"]
+sukebei.nyaa.fun##DIV[class="servers-cost-money1 sc_header_l hidden-custom"]
+sukebei.nyaa.fun##DIV[class="servers-cost-money2 sc_footer_l hidden-xs"]
+sukebei.nyaa.fun##DIV[class="servers-cost-description"]
+www.kppt.cc##DIV[id="_dp"]
+pan.baidu.com##IMG[class="share-center"]
+wenku.baidu.com##DIV[class="aside"]
+www.gamersky.com##DIV[class="gsBackgroundLeft"]
+www.gamersky.com##DIV[class="Mid2_R"]
+www.gamersky.com##DIV[id="adTips"]
 @@xscfw.hebust.edu.cn$document
+! Update 202003282317
+*.3dmgame.com##DIV[id="min_ad_con"]
+*.3dmgame.com##DIV[id="ad_3c"]
+*.3dmgame.com##DIV[class="wpa_h"]
+*.3dmgame.com##DIV[class="a_pt"]
+*.3dmgame.com##DIV[id="index_bg_box"][class="index_bg_box"]
+ubmcmm.baidustatic.com/
+pos.baidu.com/
+hm.baidu.com/
+cjhd.mediav.com
+dup.baidustatic.com
+baidustatic.com
+ads.rubiconproject.com
+rubiconproject.com
+doubleclick.net
+googleads.g.doubleclick.net
+tpc.googlesyndication.com
+googlesyndication.com
+pagead2.googlesyndication.com
