@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
-title: JohnTito的自定义规则
-Version: 202001251
-updated_time=2020.3.28
-author=JohnTito
-[Subscription filters]
-
+! Version: 202003281631
+! Title: JohnTito的自定义规则
+! Last modified: 28 Mar 2020 16:31 UTC
+! Homepage: https://github.com/John-Tito/Adblock-Interception-rules
+! *** list.txt ***
+!-----------------------General advert blocking filters-----------------------!
 !--CSDN
 blog.csdn.net##ASIDE
 blog.csdn.net##DIV[class="recommend-box"]
