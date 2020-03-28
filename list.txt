@@ -2,6 +2,7 @@
 ! Version: 202003281631
 ! Title: JohnTito的自定义规则
 ! Last modified: 28 Mar 2020 16:31 UTC
+! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/John-Tito/Adblock-Interception-rules
 ! *** list.txt ***
 !-----------------------General advert blocking filters-----------------------!
